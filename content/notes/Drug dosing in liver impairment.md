@@ -23,6 +23,6 @@
 - Protein Binding
 	- สูง -> มากกว่า 90-95% bound form
 	- ต่ำ -> น้อยกว่า 90% bound form
-![[notes/images/Pasted image 20230308190933.png|575]]
+![[/content/notes/images/Pasted image 20230308190933.png|575]]
 
-![[notes/images/Pasted image 20230308191136.png]]
+![[/content/notes/images/Pasted image 20230308191136.png]]

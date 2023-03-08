@@ -9,7 +9,7 @@
 
 ## Pathophysiology
 
-![[notes/images/Pasted image 20230131215618.png|450]]
+![[/content/notes/images/Pasted image 20230131215618.png|450]]
 - Asthma: อาจมาจาก allergens, pollution, respiratory viruses
 	- exacerbation มักเป็นเร็วหายเร็ว
 - AECOPD: มักจะมาจาก infection (พบบ่อย), pollution, tobacco
@@ -18,10 +18,10 @@
 
 ## Classification
 - Asthma
-	- ![[notes/images/Pasted image 20230131220751.png]]
+	- ![[/content/notes/images/Pasted image 20230131220751.png]]
 	- Severe: accessory muscle use หรือ O2 Sat <90% (PaO2 น้อยกว่า 60) / พูดไม่เป็นคำแล้ว 
 - COPD
-	- ![[notes/images/Pasted image 20230131220054.png]]
+	- ![[/content/notes/images/Pasted image 20230131220054.png]]
 	- Mild
 		- Dyspnea VAS < 5
 		- RR < 24
@@ -60,7 +60,7 @@
 
 ## Asthma Pharmacology
 - Symbicort 160/4.5 mcg
-	- ![[notes/images/Pasted image 20230131221428.png]]
+	- ![[/content/notes/images/Pasted image 20230131221428.png]]
 	- ของไทยกับเมกาต่างกัน ของไทยจะเป็น delivered dose แต่ถ้าเมกาจะเป็น metered dose
 		- max formoterol 72 mcg/day (เครื่องวัด)
 		- max delivered 54 mcg/day
@@ -97,6 +97,6 @@
 	- Oxygen Therapy
 		- Keep 88-92%
 	- Mechanical Ventilation
-		- ![[notes/images/Pasted image 20230131224257.png|300]]
+		- ![[/content/notes/images/Pasted image 20230131224257.png|300]]
 		- NIV: ไม่ใช้ในเคสเสมหะเยอะ มีการใช้เป็น routine เพราะลดอัตราการเสียชีวิต, intubation rate, decreased VAP แต่ใช้แค่สั้น ๆ 4 hours
 		- Intubation: จะใช้แค่กรณีใช้ NIV ไม่ได้

@@ -77,16 +77,16 @@
 
 
 ### Pharmacological management
-![[notes/images/Pasted image 20230308154020.png|500]]
-![[notes/images/Pasted image 20230308154054.png]]
-![[notes/images/Pasted image 20230308154100.png]]
+![[/content/notes/images/Pasted image 20230308154020.png|500]]
+![[/content/notes/images/Pasted image 20230308154054.png]]
+![[/content/notes/images/Pasted image 20230308154100.png]]
 
 ## Lupus Nephritis Management
 - ACEi, ARB to reduce proteinuria
 - คุม BP ไม่ให้เกิน 130/80 mmHg
 - มักจะรักษา Class III และ Class IV
-	- ![[notes/images/Pasted image 20230308154228.png|475]]
-	- ![[notes/images/Pasted image 20230308154238.png|500]]
+	- ![[/content/notes/images/Pasted image 20230308154228.png|475]]
+	- ![[/content/notes/images/Pasted image 20230308154238.png|500]]
 	- Euro-lupus regimen : IV CY 500 every 2 weeks for six dose
 		- response well in white and asian patient
 	- NIH Regimen : IV CY 500-1000 mg/m2 BSA once a month for six dose

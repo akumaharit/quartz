@@ -30,7 +30,7 @@
 - symptoms **present for 6 weeks or more**
 - มักพบที่บริเวณข้อเล็ก ๆ ไม่เหมือน OA ที่พบเจอที่ข้อใหญ่
 - มักเจอที่บริเวณข้อเล็ก ๆ และข้อส่วนปลายมากกว่า **ยกเว้นมือ** จะเจอแค่ข้อต้น ๆ (MCP และ PIP) แต่ถ้า OA จะเป็น PIP DIP
-	- ![[notes/images/Pasted image 20230307224543.png|375]]
+	- ![[/content/notes/images/Pasted image 20230307224543.png|375]]
 - หากข้อ MCP PIP อักเสบเกิน 3 ปี อาจจะถูกทำลายและเชื่อมกันแบบถาวร เกิดเป็น Z-deformity, swan neck deformity, boutonnière deformity
 - อาจมี [[#^14dfb0|อาการนอกข้อ]]
 	- generalized fatigue
@@ -173,4 +173,4 @@
 - JAK inhibitor and bDMARDs ไม่ต่างกันในแง่ safety/efficacy
 - contraindication ให้ใช้ leflunomide or sulfasalazine
 - หลังหยุด steroid แล้วคนไข้คุมอาการได้ดี อาจลด bDMARDs/tsDMARDs และหรือ csDMARDs
-- ![[notes/images/Pasted image 20230308124045.png]]
+- ![[/content/notes/images/Pasted image 20230308124045.png]]

@@ -34,7 +34,7 @@
 
 ## Portal Hypertension
 
-![[notes/images/Pasted image 20230307134046.png|425]]
+![[/content/notes/images/Pasted image 20230307134046.png|425]]
 
 ### Pathophysiology
 - เกิดจากการที่ portal pressure เพิ่มขึ้นสูงกว่าปกติ Hepatic-venous pressure gradient (HPVG) > 5 mgHg

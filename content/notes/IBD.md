@@ -54,8 +54,8 @@
 - แนวทางการรักษา
 	- จุดสังเกต: ใน fulminant จะไปใช้พวก methyprednisolone / hydrocortisone ก่อน ถ้าหายค่อยลดเป็น prednisolone
 	- ใน Cohn Disease ถ้า Severe or Mod อาจใช้ Prednisolone ร่วมกับ TNF-a inhibitor หรือ immunosupressive ไปเลย
-	- ![[notes/images/Pasted image 20230305193915.png]]
-	- ![[notes/images/Pasted image 20230305193929.png]]
+	- ![[/content/notes/images/Pasted image 20230305193915.png]]
+	- ![[/content/notes/images/Pasted image 20230305193929.png]]
 - ปัญหาโภชนาการในคนไข้ IBD
 	- เนื่องจากคนไข้มี IL-6 และ TNF-a ที่สูงหรือเยอะผิดปกติ จึงทำให้เกิดการสูญเสียโปรตีน และ muscle wasting ได้
 	- คนไข้กินไรไม่ค่อยได้ จึงปวดท้อง อีกทั้งดูดซึมสารอาหารได้น้อยอีกด้วย มีเบื่ออาหารร่วมด้วย
