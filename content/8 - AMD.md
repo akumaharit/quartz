@@ -1,3 +1,5 @@
+--- 
+---
 - AMD = Age-Related Macular Degeneration : AMD
 	- AMD ไม่ใช่ CPU แต่คือโรค
 	- ![[Pasted image 20230201155250.png|225]]

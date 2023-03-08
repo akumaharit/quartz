@@ -1,3 +1,6 @@
+--- 
+---
+
 > [!warning] IBD ไม่ใช่ IBS
 > IBS เป็น functional ต่างที่ IBD ที่พยาธิสภาพชัดเจน
 - **Crohn's Disease vs Ulcerative Colitis**

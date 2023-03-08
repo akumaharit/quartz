@@ -1,3 +1,6 @@
+--- 
+---
+
 ![[Pasted image 20230202192433.png|475]]
 - IOP ที่สูงทำให้เกิด optic neuropathy (ทำลายระบบประสาทตา) ทำให้
 	- Cup to Disk Ratio > 0.5 (ปกติ 0.33-0.5)
