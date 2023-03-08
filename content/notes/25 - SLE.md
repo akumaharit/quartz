@@ -30,7 +30,7 @@
 ### Joint
 - arthritis มากกว่า 2 ข้อ คล้าย RA
 - +- ปวด การดำเนินโรคไม่เรื้อรัง
-- **ผล film จะไม่เจอ erosion!! ต่างจาก [[21 - OA]] และ [[22 - RA]]**
+- **ผล film จะไม่เจอ erosion!! ต่างจาก [[notes/21 - OA]] และ [[notes/22 - RA]]**
 
 ### Renal
 - Lupus nephritis พบในเอเชียเยอะสุด

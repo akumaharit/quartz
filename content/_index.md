@@ -22,14 +22,14 @@
 
 | Topic                                                                            | Percent |
 | -------------------------------------------------------------------------------- | ------- |
-| [[1 - Asthma 2022]] / [[2 - COPD 2022]] / [[3 - Drug Induced Pulmonary Disease]]             | 7.7%    | 
-| [[4 - Respiratory Failure]]                                                          | 7.7%    |
-| [[5 - Acute Asthma & COPD Exacerbation]]                                             | 7.7%    |
+| [[notes/1 - Asthma 2022]] / [[notes/2 - COPD 2022]] / [[notes/3 - Drug Induced Pulmonary Disease]]             | 7.7%    | 
+| [[notes/4 - Respiratory Failure]]                                                          | 7.7%    |
+| [[notes/5 - Acute Asthma & COPD Exacerbation]]                                             | 7.7%    |
 | [[6 - ADR Cross Reactivity]]                                                         | 0%      |
-| [[7 - Glaucoma (ต้อหิน)]] / [[8 - AMD]]                                                           | 7.7%    |
-| [[9 - Drug Induced Eye Disorder]] / [[10 - Drug Induced Ear Disorder]]                                               | 7.7%    |
+| [[notes/7 - Glaucoma (ต้อหิน)]] / [[notes/8 - AMD]]                                                           | 7.7%    |
+| [[notes/9 - Drug Induced Eye Disorder]] / [[notes/10 - Drug Induced Ear Disorder]]                                               | 7.7%    |
 
-[[Exam 1 Addition Notes]]
+[[notes/Exam 1 Addition Notes]]
 
 
 ---
@@ -38,20 +38,20 @@
 
 | Topic                                    | Percent |
 | ---------------------------------------- | ------- |
-| [[11 - UGIB]]                            | คาบ 8   |
-| [[12 - IBD]]                             | คาบ 8   |
-| [[13 - Viral Hepatitis]]                 | คาบ 9   |
-| [[14 - Alcoholic hepatitis]]             | คาบ 9   |
-| [[15 - Cirrhosis]]                       | คาบ 10  |
-| [[16 - DIGI]]                            | คาบ 11  |
-| [[17 - DILI]]                            | คาบ 11  |
-| [[18 - Drug dosing in liver impairment]] | คาบ 11  |
-| [[20 - Synovial Analysis]]               | คาบ 12  |
-| [[21 - OA]]                              | คาบ 12  |
-| [[22 - RA]]                              | คาบ 13  |
-| [[23 - Drug Induced bone joint & muscle disease]]                                         |  คาบ 13       |
+| [[notes/11 - UGIB]]                            | คาบ 8   |
+| [[notes/12 - IBD]]                             | คาบ 8   |
+| [[notes/13 - Viral Hepatitis]]                 | คาบ 9   |
+| [[notes/14 - Alcoholic hepatitis]]             | คาบ 9   |
+| [[notes/15 - Cirrhosis]]                       | คาบ 10  |
+| [[notes/16 - DIGI]]                            | คาบ 11  |
+| [[notes/17 - DILI]]                            | คาบ 11  |
+| [[notes/18 - Drug dosing in liver impairment]] | คาบ 11  |
+| [[notes/20 - Synovial Analysis]]               | คาบ 12  |
+| [[notes/21 - OA]]                              | คาบ 12  |
+| [[notes/22 - RA]]                              | คาบ 13  |
+| [[notes/23 - Drug Induced bone joint & muscle disease]]                                         |  คาบ 13       |
 | [[24 - Steroid]]                         | คาบ 14  |
-| [[25 - SLE]]                             | คาบ 14  |
+| [[notes/25 - SLE]]                             | คาบ 14  |
 
 - โรคข้อทั้งหมด ผู้หญิงพบมากกว่าผู้ชาย ยกเว้น gout
 - เดี๋ยวอ่านชีทพี่ยศ 3 อันนั้น DIGI DILI dose in liver impair และ drug induced ของพี่นุส อ่านจบทีละอัน แล้วอ่านโพย แล้วทำสรุป ทำซ้ำจนกว่าจบ

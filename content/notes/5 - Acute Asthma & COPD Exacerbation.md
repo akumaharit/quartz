@@ -85,7 +85,7 @@
 	- require hospitalization or visit emergency room
 - Cautions!
 	- MDI with or without spacer ให้ผลไม่ต่างกัน
-	- ไม่มีแนะนำ ICS-formoterol **as-needed** สำหรับ AECOPD แต่จะให้ตาม indicated ใน [[2 - COPD 2022]])
+	- ไม่มีแนะนำ ICS-formoterol **as-needed** สำหรับ AECOPD แต่จะให้ตาม indicated ใน [[notes/2 - COPD 2022]])
 		- AECOPD จะมีใช้แค่ ventolin, berodual or inhalex
 	- SAMA ไม่ได้เพิ่ม FEV1
 - Addition Therapy:
