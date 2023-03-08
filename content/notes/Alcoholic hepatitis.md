@@ -8,7 +8,7 @@
 - เราจะกลัวภาวะ alcohol withdrawal ในเรื่องของการชักมากที่สุด
 - อย่าลืมที่จะทดแทนพลังงาน หรือสารอาหารที่ขาดหายไปจากการเป็นโรคตับจาก alcohol เช่น vitamin A D **B1 B12** folate zinc
 - การรักษา
-![[Pasted image 20230306211454.png|575]]
+![[notes/images/Pasted image 20230306211454.png|575]]
 - steroid จะใช้เป็นระยะเวลา 4 สัปดาห์
 - อาจใช้ methyprednisolone 32 mg/day (IV) แทน prednisolone (oral)
 - คะกนนการประเมินที่เกี่ยวข้อง
@@ -17,12 +17,12 @@
 	- Lille's score (cutpont 0.45)
 
 ## Non-Alcoholic (NAFLD -> non-alcoholic fatty liver disease)
-- ![[Pasted image 20230306211633.png|500]]
+- ![[notes/images/Pasted image 20230306211633.png|500]]
 	- NAFL = non-alcoholic fatty liver
 	- NASH = non-alcoholic steatohepatitis
-- ![[Pasted image 20230306211638.png|500]]
+- ![[notes/images/Pasted image 20230306211638.png|500]]
 	- ดังนั้น ต่อให้มีแค่ obesity ก้น่ากลัว (20-25% จะกลายเป็น NASH)
-- ![[Pasted image 20230306211913.png]]
+- ![[notes/images/Pasted image 20230306211913.png]]
 - NAFLD เพิ่ม cardiorisk ได้ เวลา approach ก็ตามฝั่ง cardio ได้เลย
 - metformin บางคนไม่ได้เป้นเบาหวาน แต่ใช้เนื่องจาก high risk
 - hepatoprotectives คือพวกที่ช่วยเสริม membrane ตับ

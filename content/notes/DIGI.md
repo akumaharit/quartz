@@ -26,7 +26,7 @@
 	- tetracycline,
 	- bisphosphonate
 ### NSAIDs Gastropathy
-![[Pasted image 20230308173816.png|525]]
+![[notes/images/Pasted image 20230308173816.png|525]]
 - ทั้งผลยับยั้ง COX-1 (ยับยั้ง PGE2) ทำให้ยับยั้งการสร้าง mucous และผลจาก local irritation (pH ยาเป็นกรด)
 - enteric nsaids ไม่ได้ช่วย
 - กินหลังอาหารไม่ได้ช่วย แต่ทำให้ onset ช้าขึ้นมากกว่า

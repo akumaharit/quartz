@@ -33,7 +33,7 @@
 - Bilirubin ไว้ใช้ดู prognosis ได้ จะสูงถ้ารุนแรง
 
 #### R-Ratio
-- ![[Pasted image 20230308221530.png|550]]
+- ![[notes/images/Pasted image 20230308221530.png|550]]
 
 
 ### DILI Classification
@@ -71,7 +71,7 @@
 #### Antituberculosis DILI
 - ประเมินจาก ALT เป็นหลัก
 - Types
-	- ![[Pasted image 20230308222035.png|525]]
+	- ![[notes/images/Pasted image 20230308222035.png|525]]
 - Isoniazid and NAT2
 	- NAT2 ใช้ acetylation ตัว isoniazid ให้ได้ acetylhydrazine และ hydrazine ซึ่งน่าจะเป็น metabolite ที่เป็นสาเหตุของการเกิด DILI
 	- slow acetylator จะเกิด DILI ได้เยอะกว่า เพราะตับ expose กับ metabolite นี้ได้นานกว่า

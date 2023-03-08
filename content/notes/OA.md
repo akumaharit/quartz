@@ -10,7 +10,7 @@
 
 ### Pathophysiology
 - cartilage ประกอบไปด้วย hyaluronic acid (2-4 mg/ml), collagen, proteoglycan, chondroitin และมี synovial fluid ช่วยหล่อลื่น หากสิ่งใดสิ่งหนึ่งเสื่อมสภาพก็จะเกิดปัญหาตามมาได้
-![[Pasted image 20230307174334.png|600]] ^d2442e
+![[notes/images/Pasted image 20230307174334.png|600]] ^d2442e
 
 ### Risk factors
 - อายุ -> อายุมากขึ้นทำให้จำนวน chondrocyte ลดลง ความสามารถในการซ่อมแซมของร่างกายจึงลดลง
@@ -41,7 +41,7 @@
 - SF analysis หรือ serology จะทำเพื่อ R/O โรคอื่น ๆ
 	- ESR, CBC, RF, ANA, Serium Calcium, ALP, Phosphorus จะปกติทั้งหมด และไม่จำเป็นต้องเจาะ ใช้ในการ differential
 - X-Ray ไม่จำเป็นต้องทำ **ใช้แค่ในประเมินการดำเนินไปของโรค ประเมินความรุนแรงของโรค และสนับสนุนอาการทางคลินิก** / CT or MRI ไม่จำเป็น ยกเว้นจะต้องผ่าตัดอยู่แล้ว
-	- ![[Pasted image 20230307174940.png]]
+	- ![[notes/images/Pasted image 20230307174940.png]]
 - เราสามารถดูลักษณะท่าเดิน ท่าขยับข้อต่าง ๆ ของคนไข้ได้ เพื่อประเมินว่ามันเป็นข้อไหน
 - อย่าลืมตรวจค่าแลปต่าง ๆ เป็น baseline ก่อนเริ่มการรักษาด้วยยา
 - จะมีเกณฑ์ในการประเมิน วินิจฉัยอยู่ แยกตามอวัยวะที่เป็น เช่น Hand, Knee, Hip
@@ -96,7 +96,7 @@
 ### Guidelines
 
 #### ACR 2019
-![[Pasted image 20230307192954.png|600]]
+![[notes/images/Pasted image 20230307192954.png|600]]
 - ไม่แนะนำ glucosamine, IL-1 antagonist
 - ใช้ chondroitin แค่กับมือ
 - **topical capsaicin ใช้กับเข่า ไม่ใช้กับมือ**
