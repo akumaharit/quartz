@@ -40,7 +40,7 @@
 
 ### Oligo or Poly-arthritis
 - Psoriatic arthritis
-	- ผลฟิล์มจะยังเห็นความผิดปกตินะ ต่างจาก [[notes/25 - SLE]] ที่ไม่เห้นห่าไรเลย
+	- ผลฟิล์มจะยังเห็นความผิดปกตินะ ต่างจาก [[notes/SLE]] ที่ไม่เห้นห่าไรเลย
 - HIV infection
 - Behcet's syndrome
 - RA
