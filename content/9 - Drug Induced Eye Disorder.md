@@ -1,0 +1,109 @@
+### Management
+- dose, duration, t1/2
+- physicochemical properties
+- individual blood-retina barrier/ blood-aqueous barrier/ physio/ ยาอื่น ๆ
+- monitoring : monitor what drug? what to monitor? is TDM viable?
+
+### Drug Induced Eye Disorder
+- Contact Dermatitis
+	- หนังตาบาง จึงเกิดได้ง่าย
+	- หนังตามีต่อมไขมัน ช่วยสร้าง film ให้น้ำตา ดังนั้นเกี่ยวกับตาแห้งด้วย
+- Angioedema
+	- เกิดที่ตาได้ เปลือกตา ปาก genital
+	- ไม่จำเป็นต้องเกิดแค่ตาข้างเดียว สองข้างก็ได้
+	- True-allergy vs Pseudo-allergy (NSAIDs)
+- Ptosis 
+	- หนังตาตก เปลือกตาอ่อนแรง
+	- ส่วนใหญ่เกิดจากยาไป interfere neuromuscular junction
+	- ยา**ส่วนใหญ่เกิดแบบ Reversible**
+		- Botox
+		- Pregabalin
+		- Cortocosteroid
+		- Chloroquine
+		- High dose opids
+		- neuromuscular blockers
+	- ยา**บางตัวเกิดแบบ Irreversible**
+		- Vinca alkaloids #recall1
+			- Vincristine > Vinblastine
+- Eyelid pigmentation 
+	- prostaglandin analogs เช่น bimatoprost
+	- เปลือกตาดูเข้มขึ้น
+- Poliosis  #recall1
+	- หงอกปอยเฉพาะที่ / ผิวสีขาวได้ด้วยในบริเวณที่เป็น
+	- chloroquine, hydroxychloroquine มักเจอจากการใช้เป็น DMARDs > malaria เพราะ chronic use
+	- ทำให้เม็ดสี **melanin** ผิดปกติ
+	- ยาอื่น ๆ ที่พบเจอได้อีก #recall2 
+		- chlorpromazine
+		- silver salts
+		- phenolic solutions
+- Antimalarial-induced eye disorders 
+	- Chloroquine, hydroxychloroquine
+	- Corneal deposits มันไปจับกับ melanin pignent ที่ RPE เกิดกานสะสม ความเข้มข้นเยอะ ทำให้เกิด bull's-eye maculopathy/retinopathy เกิด nyctalopia ได้ #recall1
+- Hypertrichosis
+	- prostaglandin analogs เช่น bimatoprost
+	- ขนตายาวขึ้น eye-lid เข้ม
+- Iris pigmentation
+	- prostaglandin analogs เช่น latanoprost
+	- iris เข้มขึ้น อาจไม่ชัดในคนไทยเพราะเราเข้มอยู่แล้ว
+- Drug-induced conjunctivitis (keratoconjunctivitis sicca)
+	- Tear production
+		- diuretics
+		- anticholinergics
+	- Tear film quality
+		- vitamin A
+		- isotretinoin
+	- unknown mech
+		- cyclophosphamide
+		- methotrexate
+	- SJS/TEN
+- Favipiravir-induced blue eyes
+	- metabolites ไป deposit ที่ cornea
+	- หยุดยาก็หาย ไม่เป็นอันตราย
+- Cataract #recall1
+	- เกิดจาก oxidative stress ที่ lens
+	- lens ขุ่น ทำให้การหักเหแสงเปลี่ยน ไม่จำเป็นต้องเป็นสองข้าง
+	- **Corticosteroids ทั้งกินและ drop**
+	- Allopurinol
+	- Busulfan
+	- Phenothiazines
+- Anticholinergics-related eye disorders
+	- ทวน parasympathetic 
+		- ![[Pasted image 20230130184158.png|325]] 
+	- Blurred vision
+		- Mydriasis
+			- Note: cholinergic หด pupils miosis ดังนั้น anti จึงขยาย (mydriasis) #recall2 
+		- Cycloplegia
+	- Elevated IOP -> Glaucoma
+		- อาจเกิดจากการที่มัน mydriasis / cycloplegia
+	- Dry eye
+	- ยาที่เกี่ยวข้องและมักลืมกัน เช่น Orphenadrine, Paroxetine, Benztropine, Trihexyphenidyl, Atropine
+- **Amiodarone**-induced eye disorders
+	- t1/2 ยานาน
+	- ยา arrythymia ที่ออกฤทธ์หลาย class จึงเจอบ่อย หมอชอบใช้
+	- Bilateral corneal deposits
+	- Anterior subcapsular lens opacities
+	- Halo vision
+	- Optic neuropathy
+- Antiepileptic-induced eye disorders
+	- CBZ, Phenytoin, lamotrigine
+		- blurred vision
+		- dose dependent: #recall1
+			- **diplopia** เห็นภาพซ้อน static 
+			- **nystagmus** เห็นภาพซ้อนแต่มันแกว่งไปมาเพราะตา fix ให้นิ่งไม่ได้
+	- Topiramate #recall2 
+		- มี **report angle-closure glaucoma** เพราะมันมีผลต่อ nerve ที่คุม iris
+- Color perception disturbance
+	- Sildenafil, tadalafil, vardenafil (unknown MOA)
+		- color blindness
+		- blurred vision
+		- photophobia
+	- Digoxin
+		- แสงเหลืองเขียว
+	- Interferon alpha
+		- สมัยก่อนเจอบ่อยเพราะใช้กับไวรัสตับอักเสบ
+	- Ethambutol
+		- เจอบ่อยใน TB
+	- Metronidazole
+		- เจอน้อยเพราะคนไม่ได้ใช้นาน ส่วนใหญ่ใช้ short terms #recall2 
+	- Antimalarials
+		- พวก HCQ, CQ, น่าจะ MOA: deposit ที่ retina

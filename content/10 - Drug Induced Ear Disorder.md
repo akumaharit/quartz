@@ -1,0 +1,55 @@
+  - Middle Ear
+	  - ชั้นข้างใน Ear-drum เป็นต้นมา
+	  - มีกระดูก M I S
+  - Inner Ear
+	  - มีของเหลว Lymphatic Fluid 
+	  - Semicircular canals: Gait & Balance  
+		  - จะมี Hair Cell ชื่อ
+			  - Maculae : static balance (Memo: maculae macuta (ta = static)) #recall1
+				  - ![[Pasted image 20230202180049.png]]
+			  - Cristae : kinetic balance (Memo: cri / ki) #recall1
+				  - ![[Pasted image 20230202180103.png]]
+	  - Cochlea: Hearing
+		  - มี Vestibular Membrane ด้านข้าง หลั่ง Endolymph ระหว่างตรงกลางมี Organ of corti มี hair-cell กระจุกอยู่
+		  - ![[Pasted image 20230202175722.png|325]]
+		  - ![[Pasted image 20230202175916.png|450]]
+  - Vestibulocochlear nerve (VIII Carnial nerve)
+  - Oscillopsia คือการเห็นภาพแกว่ง จริง ๆ มันเกี่ยวข้องกับการทำงานของหู ในส่วนของการทรงตัว (Vestibular)
+  - Aminoglycoside
+	  - reactive oxygen species ใน inner ear
+	  - ![[Pasted image 20230202180342.png]]
+  - Loop Diuretics
+	  - รบกวนสมดุล endocochlear fluid โดยขัดขวาง adenylate cyclase และ G-protein ของ stria vascularis
+	  - รบกวนระดับ K+ ใน endolymph
+	  - Tinnitus และ reversible sensorineural hearing loss เกิดเมื่อได้รับยาต่อเนื่องเป็นเวลานาน
+	  - Cochleotoxicity ก่อนแล้วจึง Vestibulotoxicity ตามมาหากใช้ยาเป็นระยะเวลานาน
+  - Quinine #recall2
+	  - **ลดการไหลเวียนเลือด**ใน cochlear ทำลาย hair-cell
+	  - Cinchonism -> Tinnitus และ reversible sensorineural hearing loss 
+		  - cinchona alkaloid
+		  - ![[Pasted image 20230202195400.png|250]]
+	  - Cochleotoxicity ก่อนแล้วจึง Vestibulotoxicity ตามมาหากใช้ยาเป็นระยะเวลานาน
+  - Chloroquine 
+	  - จับกับ melanin ใน **stria vascularis** เกิดพิษต่อหูโดยตรง รบกวนระดับ K+ ของ endolymph #recall2 
+	  - Tinnitus และ reversible sensorineural hearing loss เกิดเมื่อได้รับ ยาต่อเนื่องเป็นเวลานาน
+	  - อาจพบ vestibular symptoms หากยังคงได้รับยาต่อเนื่อง
+	  - **ใช้เวลานานในการกลับสู่อาการปกติ** #recall2 
+  - Salicylates (+- NSAIDs)
+	  - เกิดเมื่อกิน ASA > 2.7 g/day #recall1
+	  - ลดการไหลเวียนเลือดใน cochlear รบกวนเส้นประสาทคู่ที่ 8 #recall2
+	  - Salicylism -> Tinnitus และ reversible sensorineural hearing loss 
+	  - บางคนจะเป็นปัญหาเรื้อรัง
+	  - อาการดีขึ้นเมื่อหยุดยาไป 24-72 ชม
+  - Chemotherapeutics
+	  - Platinum compounds
+		  - hair cell ใน inner ear ลดลง รบกวนการทำงานของ mitochondria
+		  - เป็นพิษต่อ **organ of corti and stria vascularis** ทำให้การทำงานของ endocochlear ผิดปกติ #recall2 
+	  - Vinca alkaloids
+		  - ตัวมันมีความ neurotoxicity
+		  - พิษต่อระบบประสาทการได้ยิน
+  - Topical otic medications
+	  - ส่วนใหญ่เกิดที่ outer ear
+	  - middle and inner ear จะเกิดถ้า eardrum แตก
+	  - cosolvent เช่น PG หรือ antiseptics เช่น alcohol, chlorhexidine, BAK มีผลต่อการได้ยิน
+	  - hair cell sensitive ต่อ temperature การได้ยินจะได้รับผลกระทบถ้ามี temp แปก ๆ
+  - ภาวะขาดน้ำ หรือ E'lyte imbalance หรือ CKD อาจส่งผลต่อการได้ยินหรือเป็น risk factor อยู่แล้ว
