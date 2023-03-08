@@ -1,0 +1,48 @@
+- [[Inhaler Products]]
+- Asthma
+	- Normal
+		- Diagnosis ดูจาก
+			- FEV1/FVC <0.75-0.8 (adult) และ
+			- post broncho FEV1 > 12% หรือ
+			- PEF > 10%
+		- การรักษา
+			- step1-2
+				- ICS ไม่ได้ก็ใช้ montelukast
+				- add HDM ถ้าแพ้ ระวัง anaphylaxis
+			- step3 -> กรณีที่ >5 days อาการ
+				- ใช้ symbicort แบบ od ไม่ใช่ as-needed!
+			- step4-5 อาการทุกวัน
+				- ถ้า type 2 -> EOS > 150 และหรือ FeNO >20
+					- ควรตอบสนองต่อ ICS ปรับให้สุดก่อน และลองใช้ Azithro / LAMA
+				- ถ้า not type 2
+					- ลองใช้ Azithro / LAMA ถ้าไม่ได้ค่อย Biologics
+	- Exacerbation
+		- เพิ่มอัตราการพ่น ถ้า PEF FEV < 60% ให้ prednisolone
+		- mild-mod
+		- severe
+			- RR > 30
+			- accesory muscle
+			- PaO2 < 60 mmHg (O2Sat <90%)
+		- รักษา
+			- keep O2 92-95%
+			- predni  40-50 mg/d 5 day
+			- เพิ่มการพ่น + ICS ด้วย
+- COPD
+	- Normal
+		- GOLD ต้อง FEV/FVC < 0.7 ก่อน!
+			- 80 50 30 A B C D
+		- mRNC
+			- 0 1 2 3 4
+		- CAT
+			- หลายข้อเลยจร้า
+		- Group A B E
+			- ตัดที่ Cat 10    mRNC ที่ 0-1  >=2
+	- Exacerbation
+		- พ่นถี่ขึ้น
+		- ถ้ายังไม่ได้ใช้ combine ให้มา combine LABA LAMA ถ้า eos < 300
+		- ถ้า eos > 300 ให้ใช้ ICS ร่วมด้วยเลย
+		- แต่ถ้า < 300 ลองแล้วไม่หาย แค่ >100 ก็ให้ได้ แต่ถ้า < 100 ให้ใช้วิธีอื่น
+			- ลอง add Azithromycin หรือ Roflumilast
+		- OCS Optional แต่มี Role
+		- O2 keep แค่ 88-92% พอ
+		- ใส่ INV แค่ในเคสที่ไม่มีเสมหะและ indicated เท่านั้น
